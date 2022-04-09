@@ -10,6 +10,7 @@ defined( 'ABSPATH' ) || exit;
 
 $storefront_griselda = array(
     '/enqueue.php',                         // Enqueue scripts and styles.
+    '/safe-svg/safe-svg.php',               // Load support SVG imagen and Saniteze it.
 );
 
 foreach ( $storefront_griselda as $file ) {
