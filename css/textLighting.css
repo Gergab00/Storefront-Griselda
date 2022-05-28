@@ -1,0 +1,23 @@
+.elementor-heading-title{
+    cursor: pointer;
+    transition: all 300ms easy-in-out;
+    color: #2E3E50;
+}
+.elementor-heading-title::before{
+    content: var(--l);
+    position: absolute;
+    transform: scale(1.1);
+    filter: blur(15px);
+}
+.elementor-heading-title::after{
+    content: var(--l);
+    position: absolute;
+    top: 80%;
+    left: 0;
+    filter: blur(30px);
+    transform: rotateX(50deg);
+}
+.elementor-heading-title:hover{
+    filter: contrast(250%);
+    color: #F3F4F3;
+}

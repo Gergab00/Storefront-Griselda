@@ -1,0 +1,36 @@
+/* Slide In From The Top Option */
+
+.slide-header-2 {
+    transform: translatey(-80px);
+    -moz-transition: all .3s ease !important;
+    -webkit-transition: all .3s ease !important;
+    transition: all .3s ease !important;
+}
+
+
+.elementor-sticky--effects.slide-header-2 {
+    height: auto !important;
+    transform: translatey(0px);
+}
+
+.elementor-sticky--effects.header-1 {
+    display: none !important;
+}
+
+/* End Of Slide In From The Top Option */
+
+/* Fade In Option */
+
+.fade-header-2 {
+    opacity: 0;
+    -moz-transition: opacity .25s ease-out !important;
+    -webkit-transition: opacity .25s ease-out !important;
+    transition: opacity .25s ease-out !important;
+}
+
+
+.elementor-sticky--effects.fade-header-2 {
+    opacity: 1 !important;
+}
+
+/* End Of Fade In Option */
