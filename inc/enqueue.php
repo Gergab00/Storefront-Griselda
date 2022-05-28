@@ -47,5 +47,13 @@ function bootstrap_js()
 		'5.1.3',
 		true
 	);
+
+	wp_enqueue_script(
+		'animation_logo',
+		get_stylesheet_directory_uri() . '/js/logo-svg-animation.js',
+		array('jquery'),
+		wp_get_theme()->get('Version'),
+		true
+	);
 }
 add_action('wp_enqueue_scripts', 'bootstrap_js');
