@@ -13,10 +13,10 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 Este tema secundario está diseñado para usarse como tema de inicio para el tema WooCommerce StoreFront, que puede descargar de forma gratuita a continuación.
 
-[Descargar el tema StoreFront de WooCommerce](https://wordpress.org/themes/storefront/)
-[Documentación de StoreFront](http://docs.woocommerce.com/documentation/themes/storefront/)
-[Temas secundarios de StoreFront](https://woocommerce.com/product-category/themes/storefront-child-theme-themes/)
-[Extensiones de StoreFront](https://woocommerce.com/product-category/storefront-extensions/)
+- [Descargar el tema StoreFront de WooCommerce](https://wordpress.org/themes/storefront/)
+- [Documentación de StoreFront](http://docs.woocommerce.com/documentation/themes/storefront/)
+- [Temas secundarios de StoreFront](https://woocommerce.com/product-category/themes/storefront-child-theme-themes/)
+- [Extensiones de StoreFront](https://woocommerce.com/product-category/storefront-extensions/)
 
 ### Instalación 🔧
 
@@ -53,11 +53,9 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Woocommerce Storefront](https://wordpress.org/themes/storefront/) - Tema padre
+* [Visual Studio Code](https://code.visualstudio.com/download) - Editor de Código Fuente
+* [WordPress Theme Developer Handbook](https://developer.wordpress.org/themes/) - Manual para desarrolladores de temas
 
 ## Contribuyendo 🖇️
 
@@ -75,14 +73,13 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Gerardo Gonzalez** - *Desarrollo* - [Gergab00](https://github.com/Gergab00/)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GNU General Public License v2 or later) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
